@@ -19,3 +19,6 @@ pip install --upgrade pip
 pip install --quiet tensorflow
 
 python $WORKSPACE/src/tf_helloworld.py
+
+./pub_results.sh
+
