@@ -20,5 +20,5 @@ pip install --quiet tensorflow
 
 python $WORKSPACE/src/tf_helloworld.py
 
-PUB_RES=$WORKSPACE/.jenkins/pub_results.sh
-source $PUB_RES
+# PUB_RES=$WORKSPACE/.jenkins/pub_results.sh
+# source $PUB_RES
