@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python $WORKSPACE/src/tf_helloworld.py
+python ./src/tf_helloworld.py
